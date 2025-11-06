@@ -1,0 +1,1 @@
+This repository contains machine learning models and datasets for predicting rainfall and water levels. The project explores multiple algorithms—including LSTM, Random Forest, and XGBoost—to assess their performance in environmental forecasting.
